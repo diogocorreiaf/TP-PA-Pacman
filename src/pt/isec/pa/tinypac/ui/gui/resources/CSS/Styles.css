@@ -1,0 +1,29 @@
+
+
+.buttonCSS {
+    -fx-background-color: black;
+    -fx-text-fill: yellow;
+    -fx-border-color: yellow;
+    -fx-border-width: 2px;
+}
+.titleCSS {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill: yellow;
+}
+.labelCSS {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+.scoreLabel {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-text-fill: white;
+}
+.gameOverCSS{
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+    -fx-text-fill: red;
+}
